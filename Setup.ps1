@@ -446,11 +446,7 @@ $ModConfigurations = @(
     
     # Windows 11 File Explorer Styler Configuration (Matter Theme)
     @{ Name = 'Windows 11 File Explorer Styler'; Key = 'windows-11-file-explorer-styler'; 
-       Settings = @{ 'Theme' = 'Matter' } },
-    
-    # Windows 11 Notification Center Styler Configuration (WindowGlass Theme)
-    @{ Name = 'Windows 11 Notification Center Styler'; Key = 'windows-11-notification-center-styler'; 
-       Settings = @{ 'Theme' = 'WindowGlass' } }
+       Settings = @{ 'Theme' = 'Matter' } }
 )
 
 
