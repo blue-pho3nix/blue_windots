@@ -80,29 +80,6 @@ My semi-automated [Komorebi](https://github.com/LGUG2Z/Komorebi) + [yasb](https:
 
 </details>
 
----
 
-## [Install Nordish](https://github.com/blue-pho3nix/blue-windots/blob/Nordish/README.md#optional-pre-install)
-
-
-![](https://github.com/user-attachments/assets/0ea76aa8-e7ed-474d-bda3-e46a0a7b0559)
-
-<details closed>
-  <summary>View more images 🖼️</summary>
-  
-![](https://github.com/user-attachments/assets/d52dfad4-da3a-4ad9-8dd6-cdf0485c62f5)
-![](https://github.com/user-attachments/assets/b7854795-a66e-439c-b243-f47a52cd17cb)
-![](https://github.com/user-attachments/assets/f7da3151-f1c4-4f4d-b810-a6717b60f846)
-
-
-## Interesting yasb Widgets
-
-### To Do
-<img width="501" alt="image" src="https://github.com/user-attachments/assets/2a2b49af-69eb-4b58-a444-c5ae07a0cc78" />
-
-### Pomodoro
-<img width="501" height="427" alt="image" src="https://github.com/user-attachments/assets/14eb282a-ce3c-4135-8220-be4243b01efd" />
-
-</details>
 
 
