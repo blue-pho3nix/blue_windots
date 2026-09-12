@@ -426,21 +426,12 @@ $ModConfigurations = @(
     } 
 },
     
-    # Windows 11 Taskbar Styler Configuration (Hide Taskbar)
+    # Windows 11 Taskbar Styler Configuration 
     @{ 
     Name = 'Windows 11 Taskbar Styler'; 
     Key = 'windows-11-taskbar-styler'; 
     Settings = @{ 
         'theme' = 'SimplyTransparent';
-        'controlStyles[0].target' = 'Taskbar.TaskListButtonPanel';
-        'controlStyles[0].styles[0]' = 'Visibility=Collapsed';
-        'styleConstants[0]' = '';
-        'resourceVariables[0].variableKey' = '';
-        'resourceVariables[0].value' = '';
-        'controlStyles[1].target' = 'Taskbar.TaskListLabeledButtonPanel';
-        'controlStyles[1].styles[0]' = 'Visibility=Collapsed';
-        'controlStyles[2].target' = 'SystemTray.OmniButton';
-        'controlStyles[2].styles[0]' = 'Visibility=Collapsed';
     } 
 },
     
