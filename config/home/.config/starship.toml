@@ -1,5 +1,6 @@
 continuation_prompt = "[.](bright-black) "
-
+scan_timeout = 100
+command_timeout = 1000
 
 [character]
 success_symbol = "[>](bold green)"
