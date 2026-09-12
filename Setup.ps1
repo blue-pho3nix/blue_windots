@@ -444,7 +444,7 @@ $ModConfigurations = @(
     # Windows 11 File Explorer Styler Configuration (Matter Theme)
     @{ Name = 'Windows 11 File Explorer Styler'; Key = 'windows-11-file-explorer-styler'; 
         Settings = @{ 'Theme' = 'Matter' } 
-    },
+    }
    
 )
 
