@@ -174,11 +174,8 @@ My semi-automated [Komorebi](https://github.com/LGUG2Z/Komorebi) + [yasb](https:
 #### Install the following mods under `Explore`
 - Resource Redirect
 - Windows 11 File Explorer Styler
-- Windows 11 Notification Center Styler
 - Windows 11 Taskbar Styler
 - UXTheme hook
-
-![](https://github.com/user-attachments/assets/3445ab9d-db6a-4ef8-a90f-0e5818025f3d)
 
 
 ### 2. Install [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-us&gl=US&ocid=pdpshare)
@@ -263,9 +260,7 @@ git clone -b Andromeda  https://github.com/blue-pho3nix/blue-windots.git
 
 
 #### 6. Restart computer from powershell
-> [!NOTE]
-> Your taskbar will be hidden, but you'll have yasb taskbar once you restart.
-> If you ever want to have your Windows taskbar back, just edit "Windows 11 Taskbar Styler" in Windhawk.
+
 ```
 Restart-Computer
 ```
