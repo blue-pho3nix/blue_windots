@@ -187,8 +187,6 @@ My semi-automated [Komorebi](https://github.com/LGUG2Z/Komorebi) + [yasb](https:
 - Control Panel Color Fix
 - Resource Redirect
 - Windows 11 File Explorer Styler
-- Windows 11 Notification Center Styler
-- Windows 11 Start Menu Styler
 - Windows 11 Taskbar Styler
 - UXTheme hook
 
