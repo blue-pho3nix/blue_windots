@@ -445,16 +445,7 @@ $ModConfigurations = @(
     @{ Name = 'Windows 11 File Explorer Styler'; Key = 'windows-11-file-explorer-styler'; 
         Settings = @{ 'Theme' = 'Matter' } 
     },
-    
-    # Windows 11 Notification Center Styler Configuration (Matter Theme)
-    @{ Name = 'Windows 11 Notification Center Styler'; Key = 'windows-11-notification-center-styler'; 
-        Settings = @{ 'Theme' = 'Matter' } 
-    },
-    
-    # Windows 11 Start Menu Styler Configuration (Oversimplified&Accentuated Theme)
-    @{ Name = 'Windows 11 Start Menu Styler'; Key = 'windows-11-start-menu-styler'; 
-        Settings = @{ 'Theme' = 'Oversimplified&Accentuated'; 'DisableNewLayout' = 1 } 
-    }
+   
 )
 
 
